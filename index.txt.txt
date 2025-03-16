@@ -1,1 +1,1 @@
-This is version second of git software
+This is version second of my github software
